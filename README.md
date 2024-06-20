@@ -10,3 +10,6 @@ IVPS5048
 - Oven - 6 to 8 amp
 - hot plate 3.8 amp
 
+# for panel
+
+https://www.chinasuntree.com/photovoltaic-fuse/dc-fuse-srd-30-1100v.htm
